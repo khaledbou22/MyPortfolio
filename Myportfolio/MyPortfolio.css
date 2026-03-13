@@ -824,7 +824,7 @@ nav .container {
 }
 
 .skill-card.in-view .skill-progress[data-progress="55"] {
-  width: 55%;
+  width: 85%;
 }
 
 .skill-card.in-view .skill-progress[data-progress="75"] {
